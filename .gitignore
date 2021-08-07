@@ -6,3 +6,5 @@ config/uploads/*
 !*.gitkeep
 go.mod
 go.sum
+MakeFile
+*md

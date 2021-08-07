@@ -34,7 +34,7 @@ mkdir -p src/<your_repository_domain>/<your_username>/<your_repository>
 * Move to the created directory and pull codebase
 ```
 cd src/<your_repository_domain>/<your_username>/<your_repository>
-git clone -b master https://github.com/alfianwi97/myapp.git .
+git clone -b master https://github.com/dimaskiddo/codebase-go-rest.git .
 ```
 * Run following command to change the codebase repository URL to your own
 ```
@@ -56,7 +56,7 @@ Currently the test is not ready yet :)
 
 ## Deployment
 
-**Make sure your your go script does not relate to github.com/alfianwi97/myapp anymore**.
+**Make sure your your go script does not relate to github.com/dimaskiddo/codebase-go-rest anymore**.
 To build this codebase to binaries for distribution purposes you can run following command:
 ```
 make release
@@ -75,7 +75,7 @@ The build result will shown in build directory
 
 * **Dimas Restu Hidayanto** - *Initial Work* - [DimasKiddo](https://github.com/dimaskiddo)
 
-See also the list of [contributors](https://github.com/alfianwi97/myapp/contributors) who participated in this project
+See also the list of [contributors](https://github.com/dimaskiddo/codebase-go-rest/contributors) who participated in this project
 
 ## Annotation
 
